@@ -7,7 +7,7 @@
 </p>
 
 
-![screen](https://github.com/KINGTEBE-404/T-spam/blob/Kingtebe/Coli.png)
+![screen](https://github.com/KINGTEBE-04/T-spam/blob/Kingtebe/Coli.png)
    ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shiels.io/badge/Size-8.92MB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
 
 ## Install script on Termux
